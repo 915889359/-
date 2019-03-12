@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6627149-4de7-4477-9d4f-9d34289df077" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../spring_jpa/target/" />
+    <ignored path="$PROJECT_DIR$/../spring_mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/../springdata_jpa/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="helloworld">
+      <favorite_root url="uml://MAVEN/com.henu:spring_mybatis:3.0.0" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/templates.users/list.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates.users/view.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/fragments/header.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/users/form.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/users/list.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/users/view.html" />
+        <option value="$PROJECT_DIR$/../spring_jpa/src/test/java/com/henu/spring/boot/spring_jpa/SpringJpaApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../spring_jpa/src/main/java/com/henu/spring/boot/spring_jpa/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/../spring_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring_jpa/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../spring_jpa/src/main/java/com/henu/spring/boot/spring_jpa/config/DruidConfig.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/blog/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/blog/spring_mybatis/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/henu/blog/spring_mybatis/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/spring_jpa/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/test/java/com/henu/spring/boot/spring_jpa/SpringJpaApplicationTests.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/henu/spring/boot/spring_jpa/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/bean/Employee.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/bean/Department.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/mapper/departmentMapper.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/SpringMybatisApplication.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/mapper/DepartmentMapper.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/config/MybatisConfig.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/mapper/EmployeeMapper.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/resources/mybatis/mybatisConfig.xml" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/resources/mybatis/mapper/EmployeeMapper.xml" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/resources/mybatis/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/controller/EmpController.java" />
+        <option value="$PROJECT_DIR$/../springdata_jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/../springdata_jpa/src/main/java/com/henu/springdata_jpa/config/DruidConfig.java" />
+        <option value="$PROJECT_DIR$/../springdata_jpa/src/main/java/com/henu/springdata_jpa/entity/User.java" />
+        <option value="$PROJECT_DIR$/../springdata_jpa/src/main/java/com/henu/springdata_jpa/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/../springdata_jpa/src/main/java/com/henu/springdata_jpa/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/henu/blog/HelloworldApplicationTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/henu/blog/repository/UserRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/henu/blog/repository/UserRepository.java" />
+        <option value="$PROJECT_DIR$/../springdata_jpa/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/henu/blog/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/henu/blog/entity/User.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/henu/blog/domain/es/EsBlog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/henu/blog/domain/EsBlog.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/henu/blog/repository/EsBlogRepository.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/henu/blog/repository/EsBlogRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/henu/blog/HelloworldApplication.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="/Library/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring_jpa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring_jpa" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552284616656" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.henu.blog.repository" />
+      <recent name="com.henu.blog" />
+      <recent name="com.henu.blog.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../spring_mybatis/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.henu.blog" />
+      <recent name="com.henu.blog.spring_mybatis" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../spring_mybatis/src/main/java" />
+      <recent name="$PROJECT_DIR$/../spring_mybatis" />
+      <recent name="$PROJECT_DIR$/.." />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates.users" />
+      <recent name="$PROJECT_DIR$/src/main/resources/templates/fragements" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining">
+    <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.henu.blog.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.henu.blog.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.henu.blog.repository.EsBlogRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.henu.blog.spring_mybatis.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.henu.blog.spring_mybatis.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.henu.blog.spring_mybatis.controller.HelloControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloworldApplicationTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.henu.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.henu.blog" />
+      <option name="MAIN_CLASS_NAME" value="com.henu.blog.HelloworldApplicationTest" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringJpaApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.henu.spring.boot.spring_jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.henu.spring.boot.spring_jpa" />
+      <option name="MAIN_CLASS_NAME" value="com.henu.spring.boot.spring_jpa.SpringJpaApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringJpaApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_jpa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.henu.spring.boot.spring_jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.henu.spring.boot.spring_jpa" />
+      <option name="MAIN_CLASS_NAME" value="com.henu.spring.boot.spring_jpa.SpringJpaApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.henu.blog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.henu.blog.HelloworldApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.henu.spring.boot.spring_jpa.SpringJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring_mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.henu.spring_mybatis.SpringMybatisApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringdataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springdata_jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.henu.springdata_jpa.SpringdataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.HelloControllerTest" />
+      <item itemvalue="JUnit.SpringJpaApplicationTests" />
+      <item itemvalue="JUnit.SpringJpaApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.HelloworldApplicationTest.contextLoads" />
+      <item itemvalue="JUnit.EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" />
+      <item itemvalue="Spring Boot.HelloworldApplication" />
+      <item itemvalue="Spring Boot.SpringJpaApplication" />
+      <item itemvalue="Spring Boot.SpringMybatisApplication" />
+      <item itemvalue="Spring Boot.SpringdataJpaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" />
+        <item itemvalue="JUnit.HelloworldApplicationTest.contextLoads" />
+        <item itemvalue="JUnit.SpringJpaApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringJpaApplicationTests" />
+        <item itemvalue="JUnit.HelloControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6627149-4de7-4477-9d4f-9d34289df077" name="Default Changelist" comment="" />
+      <created>1552024472839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552024472839</updated>
+      <workItem from="1552024477057" duration="689000" />
+      <workItem from="1552027265906" duration="3301000" />
+      <workItem from="1552042721137" duration="3703000" />
+      <workItem from="1552047029955" duration="4116000" />
+      <workItem from="1552053787656" duration="1052000" />
+      <workItem from="1552055111036" duration="325000" />
+      <workItem from="1552055617415" duration="448000" />
+      <workItem from="1552056118592" duration="1859000" />
+      <workItem from="1552098934990" duration="11607000" />
+      <workItem from="1552116169478" duration="398000" />
+      <workItem from="1552116624993" duration="8581000" />
+      <workItem from="1552137486641" duration="8742000" />
+      <workItem from="1552179424709" duration="289000" />
+      <workItem from="1552195165521" duration="380000" />
+      <workItem from="1552200619926" duration="2647000" />
+      <workItem from="1552262681265" duration="352000" />
+      <workItem from="1552269954411" duration="1262000" />
+      <workItem from="1552280034886" duration="3853000" />
+      <workItem from="1552297921869" duration="625000" />
+      <workItem from="1552402358321" duration="300000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EsBlogRepositoryTest_testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining - 2019.03.11 at 13h 44m 54s.xml">
+      <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EsBlogRepositoryTest_testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining - 2019.03.11 at 13h 45m 53s.xml">
+      <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EsBlogRepositoryTest_testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining - 2019.03.11 at 14h 01m 12s.xml">
+      <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EsBlogRepositoryTest_testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining - 2019.03.11 at 14h 02m 09s.xml">
+      <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EsBlogRepositoryTest_testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining - 2019.03.11 at 14h 06m 19s.xml">
+      <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EsBlogRepositoryTest_testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining - 2019.03.11 at 14h 07m 02s.xml">
+      <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EsBlogRepositoryTest_testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining - 2019.03.11 at 14h 07m 30s.xml">
+      <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EsBlogRepositoryTest_testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining - 2019.03.11 at 14h 08m 23s.xml">
+      <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EsBlogRepositoryTest_testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining - 2019.03.11 at 14h 09m 14s.xml">
+      <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EsBlogRepositoryTest_testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining - 2019.03.11 at 14h 09m 55s.xml">
+      <configuration name="EsBlogRepositoryTest.testFindDistinctEsBlogByTitleContainingOrSummaryContainingOrContentContaining" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54529000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2092084" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.32956383" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32876712" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32739726" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.41369864" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329582" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.329582" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="15" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.21405493" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32956383" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29483038" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" weight="0.32956383" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32876712" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32739726" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.41369864" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329582" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.329582" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="15" weight="0.32876712" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.21405493" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.32956383" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../spring_jpa/src/test/java/com/henu/spring/boot/spring_jpa/SpringJpaApplicationTests.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/src.zip!/javax/management/MBeanServerConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/stat/DruidStatManagerFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/stat/JdbcConnectionStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/stat/JdbcDataSourceStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-502">
+          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/stat/JdbcResultSetStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/stat/JdbcSqlStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2219">
+          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/stat/JdbcSqlStatValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/stat/JdbcStatContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/stat/JdbcStatementStat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/stat/JdbcStatManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="35" column="19" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/stat/JdbcStatManagerFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/apache/tomcat/embed/tomcat-embed-core/8.5.23/tomcat-embed-core-8.5.23.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/support/http/StatViewServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="37" column="44" lean-forward="true" selection-start-line="37" selection-start-column="44" selection-end-line="37" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2277#2278#0" expanded="true" />
+            <element signature="e#2324#2325#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/com/alibaba/druid/1.1.8/druid-1.1.8-sources.jar!/com/alibaba/druid/support/http/ResourceServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="40" column="67" selection-start-line="40" selection-start-column="54" selection-end-line="40" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring_mybatis/src/main/java/com/henu/spring_mybatis/config/DruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="42" column="37" lean-forward="true" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1191#1207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar!/javax/persistence/Table.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/Table.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring_mybatis/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.jar!/org/springframework/data/repository/Repository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/data/spring-data-commons/1.13.9.RELEASE/spring-data-commons-1.13.9.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="89" selection-start-line="13" selection-start-column="89" selection-end-line="13" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/data/spring-data-jpa/1.11.9.RELEASE/spring-data-jpa-1.11.9.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springdata_jpa/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring_jpa/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../spring_jpa/src/test/java/com/henu/spring/boot/spring_jpa/SpringJpaApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GenerationType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springdata_jpa/src/main/java/com/henu/springdata_jpa/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="67" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/henu/blog/repository/UserRepositoryImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../springdata_jpa/src/main/java/com/henu/springdata_jpa/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/henu/blog/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springdata_jpa/src/main/java/com/henu/springdata_jpa/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springdata_jpa/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springdata_jpa/src/main/java/com/henu/springdata_jpa/config/DruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../springdata_jpa/src/main/java/com/henu/springdata_jpa/SpringdataJpaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final-sources.jar!/javax/persistence/GeneratedValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/data/spring-data-commons/1.13.16.RELEASE/spring-data-commons-1.13.16.RELEASE.jar!/org/springframework/data/repository/query/QueryByExampleExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/maven_repository/org/springframework/data/spring-data-jpa/1.11.16.RELEASE/spring-data-jpa-1.11.16.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="16" column="108" selection-start-line="16" selection-start-column="108" selection-end-line="16" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/henu/blog/domain/es.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/es.EsBlog.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/henu/blog/domain/EsBlog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/henu/blog/HelloworldApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/henu/blog/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="68" column="18" selection-start-line="68" selection-start-column="18" selection-end-line="68" selection-end-column="18" />
+          <folding>
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/henu/blog/repository/EsBlogRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-529">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/henu/blog/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/henu/blog/repository/EsBlogRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/henu/blog/repository/UserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/henu/blog/HelloworldApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="81" column="19" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring_jpa</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
